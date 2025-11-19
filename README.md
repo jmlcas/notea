@@ -1,8 +1,5 @@
-# notea
-Notea -  - Docker compose
+# Notea
 
-Ver en "localhost:8200"
+Ver en "http://localhost:8200"
 
 Password: p4ssw0rd
-
-
